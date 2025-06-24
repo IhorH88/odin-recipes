@@ -1,0 +1,30 @@
+.first-p {
+    color: red;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+.lettuce {
+    color:green;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+.croutons {
+    color: blue;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+.dressing {
+    color: purple;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+.mix {
+    color: aquamarine;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+.addon {
+    color:blueviolet;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
